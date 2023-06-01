@@ -1,7 +1,7 @@
-# 
+# README Generator
 
 ## Description
-
+You can quickly and easily generate a README file by using a command-line application to generate one.
 
 ## Table of Contents
 
@@ -12,15 +12,15 @@
 
 ## Installation
 
-
+npm i inquirer@8.2.4
 
 ## Usage
 
-
+node index.js
 
 ## Credits
 
-
+N/A
 
 ## License
 
